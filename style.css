@@ -1,0 +1,99 @@
+body{
+  padding: 50px;
+  margin: auto;
+  width: 600px;
+  font-size: 15px;
+}
+.container{
+ 
+ 
+}
+.student.info{
+    display: flex;
+}
+.dotted-line{
+       border-bottom: 1px #000 dotted;
+       display: flex;
+      width: 400px;
+      margin-left: 50px;
+    
+         }
+         .name{
+           display: flex;
+         }
+         table, th, td {
+         border: 2px solid black;
+         border-collapse: collapse;
+         background: greenyellow;
+
+         }
+         .mult-choice{
+         display: flex;
+         }
+
+.mult-choice{
+  justify-content: space-between;
+}
+.q1{
+  padding-right: 150px;
+}
+.q2{
+  padding-right: 50px;
+}
+.q3{
+
+}
+.q4{
+  padding-right: 60px;
+}
+.q5{
+  padding-right: 110px;
+}
+.q8b{
+  margin-right: 30px;
+}
+.da1{
+  padding-right: 10px;
+}
+h4{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.sub{
+  margin-right: 90px;
+}
+.q5b{
+  margin-right: 13px;
+}
+.q9b{
+  margin-right: 20px;
+}
+.q10b{
+  margin-right: 10px;
+}
+.a6{
+  padding-right: -10px;
+}
+.studentMarks{
+  color: green;
+  text-align: center;
+  font-size: x-large;
+}
+table{
+  width: 550px;
+  border-top: 5px green solid;
+}
+
+.lightgreen{
+  background-color: rgb(182, 244, 182);
+}
+.text{
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.succ{
+  margin-top: 70px;
+}
+
+
